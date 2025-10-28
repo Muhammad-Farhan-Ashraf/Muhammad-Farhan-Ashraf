@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Farhan Ashraf�
 
-<!--
-**Muhammad-Farhan-Ashraf/Muhammad-Farhan-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Python
 
-Here are some ideas to get you started:
+I'm on an exciting journey to learn Python and become a proficient software developer. This profile is my public log of progress, projects, and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Currently Learning
+*   Python Fundamentals
+*   Git & GitHub
+*   Problem Solving
+
+#### 📂 My Learning Projects
+Here you'll find my day-by-day progress. The code might not be perfect, but it's a reflection of my learning curve!
+
+##### 📫 How to reach me
+[farhanch2@gmail.com] | [https://www.linkedin.com/in/farhan-fc/]
+
+*"The only way to learn to code is to write code."*
